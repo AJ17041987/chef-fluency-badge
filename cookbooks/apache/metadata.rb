@@ -4,7 +4,7 @@ maintainer_email 'ajitesh.kumar@mindtree.com'
 license 'all_rights'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
-version '0.1.1'
+version '0.2.1'
 #in version 0 is the major change ,1 is the minor change and 1 at the end is the patch
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
